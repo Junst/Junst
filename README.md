@@ -2,6 +2,9 @@
 
 ![SOLBON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junst&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junst&layout=compact)](https://github.com/Junst/github-readme-stats)
+
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=ProcessingFoundation&logoColor=black"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=black"/>
 
 <!--
