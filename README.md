@@ -12,7 +12,10 @@
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=black"/> <img src="https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=black"/>
   
   <img src="https://img.shields.io/badge/Adobe Premere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=black"/> <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=black"/> 
-  </div>
+  
+![snake svg](https://github.com/Junst/Junst/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 <!--
 **Junst/Junst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
