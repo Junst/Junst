@@ -1,7 +1,7 @@
   <div align="center"> 
   
   ### You are my soul 🌪️ 
-[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/b77080dea3684514ad123d83b0b05450?v=ae54004705974b7aa0580af1bbce02f1)
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://www.notion.so/R-sum-bd8775bc692e4c00bf791ceb10bd8e6a)
   
 ![SOLBON's GitHub stats](https://github-readme-stats.vercel.app/api?username=Junst&show_icons=true&theme=radical)
   
