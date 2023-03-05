@@ -4,7 +4,7 @@
 ##  About ME
   - I'm a MS student in Artificial Intelligence at Yonsei University
   - I'm interested in Image Captioning, Text Generation and Commonsence Reasoning.
-  - Github.io : <a href="Junst.github.io"><img src="https://img.shields.io/badge/-github.io-black"/></a>
+  - Github.io : <a href="https://Junst.github.io"><img src="https://img.shields.io/badge/-github.io-black"/></a>
   - Notion : <a href="https://www.notion.so/R-sum-ebabbdd7ce4442f8bd4659d5e824d5b8"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
    <div align="center"> 
   
